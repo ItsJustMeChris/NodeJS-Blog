@@ -1,0 +1,16 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "NodeJS Blog",
+  "main": "app.js",
+  "dependencies": {
+    "aurora-router": "^1.0.11",
+    "ejs": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ItsJustMeChris",
+  "license": "MIT"
+}
